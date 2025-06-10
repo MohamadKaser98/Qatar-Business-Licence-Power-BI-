@@ -30,5 +30,5 @@ This Power BI project explores and analyzes active commercial certificates (Lice
 
 
 **Author**: *Mohamad Kaser*
-Data & BI Engineer | M.Sc. in Computer Science
+**Data & BI Engineer | M.Sc. in Computer Science**
 **Last Updated**: June 2025
