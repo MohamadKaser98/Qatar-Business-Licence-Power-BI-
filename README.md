@@ -29,5 +29,6 @@ This Power BI project explores and analyzes active commercial certificates (Lice
 - Use the Excel dataset to extend or update analysis as new data becomes available.
 
 
-**Author**: *Mohamad Kaser*  
+**Author**: *Mohamad Kaser*
+Data & BI Engineer | M.Sc. in Computer Science
 **Last Updated**: June 2025
