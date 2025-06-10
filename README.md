@@ -5,7 +5,7 @@
 This Power BI project explores and analyzes active commercial certificates (Licenses) in the State of Qatar, categorized by **municipality** and **business activity**. The dataset, sourced from the official [Qatar Open Data Portal](https://www.data.gov.qa), offers insights into business distribution and trends across different regions and sectors in Qatar.
 
 
-![Qatar Business Activity Analysis](Report.png)
+![Qatar Business Activity Analysis](report.png)
 
 
 
